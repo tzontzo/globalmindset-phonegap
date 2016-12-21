@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="org.medpower.carroll.android" version="1.02" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Carroll Hospital eLearning Services</name>
+<widget id="com.matrixlms.globalmindset.app.android" version="1.01" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Global Mindset</name>
     <description>
-        Anytime access to custom education materials via online micro-learning modules.
+        Transform the moment! Refresh your skills, tune into a podcast or read an inspiring article.
     </description>
-    <author email="bhaggerty@medpower.org" href="http://carroll.medpower.org">
-        MedPower
+    <author email="info@globalmindset.dk" href="http://globalmindset.matrixlms.com">
+        Global Mindset ApS
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
@@ -118,7 +118,7 @@
     <plugin name="cordova-plugin-vibration" spec="~2.1.0" />
     <plugin name="cordova-plugin-whitelist" spec="~1.2.1" />
     <plugin name="phonegap-plugin-push" spec="~1.8.4">
-        <variable name="SENDER_ID" value="1234567" />
+        <variable name="SENDER_ID" value="413155514433" />
     </plugin>
     <engine name="ios" spec="~4.1.1" />
 </widget>

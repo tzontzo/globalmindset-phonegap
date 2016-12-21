@@ -11,12 +11,13 @@ var store = window.localStorage;
 //var domain = 'nyack.medpower.org';
 //var domain = 'k2t.matrixlms.com';
 //var domain = 'sandbox.edu-20.com:3000';
-var domain = 'carroll.medpower.org';
+//var domain = 'carroll.medpower.org';
 //var domain = 'ecampus.matrixlms.com';
 //var domain = 'www.cuohde.com';
+var domain = 'globalmindset.matrixlms.com';
 
-var domainProtocol = 'http';
-//var domainProtocol = 'https';
+//var domainProtocol = 'http';
+var domainProtocol = 'https';
 
 //for regular app
 // var loginUrl = domainProtocol + '://' + domain + '/app/launch?version=' + appVersion + '&mobile_app=true&new_ios_app=true&left_nav=true&new_left_nav=true&redirected=true&new_jwplayer=true';
@@ -53,7 +54,7 @@ var canGoForward = false;
 var wentBack = false;
 var wentForward = false;
 var API = {};
-var androidSenderID = "397678941918";
+var androidSenderID = "413155514433";
 var originalHeight = $(window).height();
 var originalWidth = $(window).width();
 var loadingOverlayTimeoutAmount = 2000;
