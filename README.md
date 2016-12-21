@@ -1,0 +1,1 @@
+# globalmindset-phonegap
