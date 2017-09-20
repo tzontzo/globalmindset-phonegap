@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.matrixlms.globalmindset.app.android" version="1.01" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Global Mindset</name>
+<widget id="com.matrixlms.globalmindset.app.android" version="1.02" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>NEMO</name>
     <description>
         Transform the moment! Refresh your skills, tune into a podcast or read an inspiring article.
     </description>
